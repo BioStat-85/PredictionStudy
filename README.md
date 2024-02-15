@@ -1,1 +1,1 @@
-Test
+This repository provides the SAS codes for the methodology that can predict, classify, and overlay long-term cognitive trajectories based on short-term individual cognitive test scores in Alzheimer’s disease. 
